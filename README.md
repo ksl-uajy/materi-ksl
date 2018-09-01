@@ -3,5 +3,5 @@ Repository ini menampung materi-materi yang telah diajarkan di Kelompok Studi Li
 ## Daftar Materi dan Pembuat Materi
 Materi|Pembuat
 --------------|-------------
-[Command Line Interface](Materi/blob/master/2018/CLI.pptx) | Alisha Aileen
+[Command Line Interface](2018/CLI.pptx) | Alisha Aileen
 
