@@ -14,3 +14,4 @@ Materi|Pembuat
 [User Management and File Permission](2018/UserManagement_and_FilePermission_KSL_Pertemuan3yhhyh.ppt) | Owen
 [Introduction To Ethical Hacking](2018/IntroductionToEthicalHacking.odp) | Andreas BJ
 [Foot Printing and Reconnaissance](2018/footandrecon.zip) | Andreas Widi
+[Jaringan Komputer 1](2018/99836_JarKom1.zip) | Albertus
