@@ -12,6 +12,6 @@ Materi|Pembuat
 [Pengenalan dan Instalasi Linux](2018/Pengenalan%20Dan%20Instalasi%20Linux.pptx) | Wahyu CB
 [Command Line Interface](2018/CLI.pptx) | Alisha Aileen
 [User Management and File Permission](2018/UserManagement_and_FilePermission_KSL_Pertemuan3yhhyh.ppt) | Owen
-[Introduction To Ethical Hacking](2018/IntroductionToEthicalHacking.odp) | Andreas BJ
+[Introduction To Ethical Hacking](2018/IntroductionToEthicalHacking.odp) | Andrea BJ (@andrebemantoro)
 [Foot Printing and Reconnaissance](2018/footandrecon.zip) | Andreas Widi
 [Jaringan Komputer 1](2018/99836_JarKom1.zip) | Albertus
