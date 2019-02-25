@@ -15,3 +15,4 @@ Materi|Pembuat
 [Introduction To Ethical Hacking](2018/IntroductionToEthicalHacking.odp) | [Andrea BJ](https://github.com/andrebemantoro) 
 [Foot Printing and Reconnaissance](2018/footandrecon.zip) | Andreas Widi
 [Jaringan Komputer 1](2018/99836_JarKom1.zip) | Albertus
+[Kriptografi Modern](2018/Kriptografi%20Modern) | Ninna Novila
