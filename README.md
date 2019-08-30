@@ -1,6 +1,14 @@
 # Repository Materi
-Repository ini menampung materi-materi yang telah diajarkan di Kelompok Studi Linux Universitas Atma Jaya Yogyakarta<br> <br>
-## Daftar Materi dan Pembuat Materi
+Repository ini menampung materi-materi yang telah diajarkan di Kelompok Studi Linux Universitas Atma Jaya Yogyakarta
+
+## Materi 2019
+
+Minggu | Materi                              | PJ
+-------|-------------------------------------|---
+2|[Command Line Interface](2019/Modul%202%20-%20CLI.pdf)|Sandi & Valdi
+
+
+## Daftar Materi Lama
 Materi|Pembuat
 --------------|-------------
 [Dasar Pengoperasian Linux](2003/Modul%20II%20-%20Dasar%20Pengoperasian%20Linux.doc) | R. Kresno Aji, KSL UII, Andre, dan Arif
